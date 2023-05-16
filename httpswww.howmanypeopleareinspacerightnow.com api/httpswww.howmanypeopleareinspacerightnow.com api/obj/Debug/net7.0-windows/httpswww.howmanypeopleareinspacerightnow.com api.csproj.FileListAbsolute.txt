@@ -1,0 +1,22 @@
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.csproj.AssemblyReference.cache
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api_MarkupCompile.cache
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.g.resources
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.AssemblyInfoInputs.cache
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.AssemblyInfo.cs
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.csproj.CoreCompileInputs.cache
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\bin\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.exe
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\bin\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.deps.json
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\bin\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.runtimeconfig.json
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\bin\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.dll
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\bin\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.pdb
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.dll
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\refint\httpswww.howmanypeopleareinspacerightnow.com api.dll
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.pdb
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.genruntimeconfig.cache
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\ref\httpswww.howmanypeopleareinspacerightnow.com api.dll
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\bosje\source\repos\httpswww.howmanypeopleareinspacerightnow.com api\httpswww.howmanypeopleareinspacerightnow.com api\obj\Debug\net7.0-windows\httpswww.howmanypeopleareinspacerightnow.com api.csproj.CopyComplete
